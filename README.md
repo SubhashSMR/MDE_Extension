@@ -1,3 +1,5 @@
+This script developed to remove **Microsoft Defender Extension** from Azure Arc machines.
+
 # Pre-requisites
 1) Install Azure Powershell module.
 Install-Module -Name Az -Repository PSGallery -Force
